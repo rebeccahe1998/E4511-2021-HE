@@ -14,4 +14,5 @@ This gene encodes a dopamine transporter which is a member of the sodium- and ch
 4. This [Notebook](Notebooks/explore_data_excape_min_viable_one.ipynb) prepare EXCAPE dataset to merge and EDA
 5. This [Notebook](Notebooks/%20Curate_Merge.ipynb) is merging 3 dataset into one ready for modelling. 
 6. This [Notebook](Notebooks/hypertune_rf.ipynb) is tuning the Random Forest Regeression Hyperparameters.
-7. This [Notebook](Notebooks/nn.ipynb) is tuning CNN regression.
+7. This [Notebook](Notebooks/nn.ipynb) is tuning CNN regression
+8. This [Notebook](Notebooks/hypertune_rf_classification.ipynb) is for Random Forest Classification model;
